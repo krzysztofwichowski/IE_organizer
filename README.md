@@ -1,2 +1,3 @@
-A simple application containing REST API
+A simple application containing REST API.
+
 React JS, Node JS, MySQL
